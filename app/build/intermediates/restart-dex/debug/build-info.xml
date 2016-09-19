@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="129100399609100"
+    token="-6778564172859763760"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="340" />
+    <task
+        name="instant-run-dex"
+        duration="509" />
+    <task
+        name="instant-run-transform"
+        duration="11" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="128480611363380" >
+        <artifact
+            location="/Users/dongwei/AndroidStudioProjects/project/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="129100399609100"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

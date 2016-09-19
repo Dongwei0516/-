@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/res/merged/debug/layout/leftmenu.xml",
+        "source": "/Users/dongwei/AndroidStudioProjects/project/app/src/main/res/layout/leftmenu.xml"
+    },
+    {
+        "merged": "/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/res/merged/debug/layout/item01.xml",
+        "source": "/Users/dongwei/AndroidStudioProjects/project/app/src/main/res/layout/item01.xml"
+    },
+    {
+        "merged": "/Users/dongwei/AndroidStudioProjects/project/app/build/intermediates/res/merged/debug/layout/imgtxt.xml",
+        "source": "/Users/dongwei/AndroidStudioProjects/project/app/src/main/res/layout/imgtxt.xml"
+    }
+]
